@@ -1,17 +1,17 @@
 <h1 align="center"> Clúster Jerárquico </h1>
 
-# Introducción 7
+# Introducción 
 
 La IA es impulsada por el aprendizaje automático y aprendizaje profundo
 
 ¿Qué es el aprendizaje automático? Es un subconjunto de algoritmos de Inteligencia Artificial que entrena a las máquinas (computadoras) para aprender. Este aprendizaje se logra mediante la extracción de patrones de conjuntos de datos.
 El exito de este aprendizaje se debe al  concepto central del aprendizaje automático: una máquina (algoritmo) puede aprender de ejemplos y la experiencia.
 Dentro del aprendizaje automático nos encontramos con diferentes tipos de aprendizajes.
-
-<a href="https://github.com/LuisJavierFI/Cluster-Jerarquico"><img src = "TiposDeAprendizaje.JPG"  width = 500> </a>
-
+<p align='center'>
+  <a href="https://github.com/LuisJavierFI/Cluster-Jerarquico"><img src = "TiposDeAprendizaje.JPG"  width = 500> </a>
+</p>
 En esta ocasiónn trabajare con el aprendizaje no supervisado, con las métricas de distancia las cuales permiten identificar objetos que comparten características similares y no similares, en especficico con el cluster jerárquico. 
-El análisis clústeres consiste en la segmentación y delimitación de grupos de objetos (elementos), que son unidos por características comunes que éstos comparten. 
+El análisis clústeres consiste en la segmentación y delimitación de grupos de objetos (elementos), que son unidos por características comunes que éstos comparten.
 
 # Datos
 **Objetivo.** Obtener clústeres de casos de usuarios, con características similares, evaluados para la adquisición de una casa a través de un crédito hipotecario con tasa fija a 30 años.
@@ -31,8 +31,9 @@ El análisis clústeres consiste en la segmentación y delimitación de grupos d
 
 ## Conclusión 
 
-La aplicación de clúster nos permitio clasificar las variables, en este caso para analizar que grupo es más adecuadod para solicitar un préstamo
-Con el análisis se definieron los siguientes clúster, obteniendo las siguientes caracteristicas.
+La aplicación del algoritmo jerárquico ascendete y siguiendo los pasos necesarios para formar clúster,me permitio clasificar las variables, en este caso para analizar que grupo es más adecuado para solicitar un préstamo.
+
+Con el análisis se definieron los siguientes clúster, con lo que pude concluir que:
 
 **Clúster 0:** Conformado por 30 casos de una evaluación hipotecaría, con un ingreso promedio mensual de 3421 USD, con gastos comunes de 846 USD, otros gastos de 527 USD y un pago mensual de coche de 309 USD. Estos gastos en promedio representan casi la mitad del salario mensual (1682 USD). Por otro lado, este grupo de usuarios tienen un ahorro promedio de 24289 USD, y un valor promedio de vivienda (a comprar o hipotecar) de 295590 USD. Además, en su mayoría son solteros (0-soltero), sin hijos menores y tienen un tipo de trabajo asalariado (2-asalariado).
 
