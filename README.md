@@ -8,8 +8,7 @@ La IA es impulsada por el aprendizaje automático y aprendizaje profundo
 El exito de este aprendizaje se debe al  concepto central del aprendizaje automático: una máquina (algoritmo) puede aprender de ejemplos y la experiencia.
 Dentro del aprendizaje automático nos encontramos con diferentes tipos de aprendizajes.
 
-      insertar imagen 🩹 diapositiva 12 pag 10
-
+<a href="https://github.com/LuisJavierFI/Cluster-Jerarquico"><img src =  width = 100> </a>
 
 En esta ocasiónn trabajare con el aprendizaje no supervisado, con las métricas de distancia las cuales permiten identificar objetos que comparten características similares y no similares, en especficico con el cluster jerárquico. 
 El análisis clústeres consiste en la segmentación y delimitación de grupos de objetos (elementos), que son unidos por características comunes que éstos comparten. 
