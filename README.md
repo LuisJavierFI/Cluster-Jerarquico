@@ -5,13 +5,13 @@
 La IA es impulsada por el aprendizaje automático y aprendizaje profundo
 
 ¿Qué es el aprendizaje automático? Es un subconjunto de algoritmos de Inteligencia Artificial que entrena a las máquinas (computadoras) para aprender. Este aprendizaje se logra mediante la extracción de patrones de conjuntos de datos.
-El exito de este aprendizaje se debe al  concepto central del aprendizaje automático: una máquina (algoritmo) puede aprender de ejemplos y la experiencia.
+El éxito de este aprendizaje se debe al  concepto central del aprendizaje automático: una máquina (algoritmo) puede aprender de ejemplos y la experiencia.
 Dentro del aprendizaje automático nos encontramos con diferentes tipos de aprendizajes.
 <p align='center'>
   <a href="https://github.com/LuisJavierFI/Cluster-Jerarquico"><img src = "TiposDeAprendizaje.JPG"  width = 500> </a>
 </p>
-En esta ocasiónn trabajare con el aprendizaje no supervisado, con las métricas de distancia las cuales permiten identificar objetos que comparten características similares y no similares, en especficico con el cluster jerárquico. 
-El análisis clústeres consiste en la segmentación y delimitación de grupos de objetos (elementos), que son unidos por características comunes que éstos comparten.
+En esta ocasión trabajé con el aprendizaje no supervisado, con las métricas de distancia las cuales permiten identificar objetos que comparten características similares y no similares, en específicico con el cluster jerárquico. 
+El análisis de clúster consiste en la segmentación y delimitación de grupos de objetos (elementos), que son unidos por características comunes que éstos comparten.
 
 # Datos
 **Objetivo.** Obtener clústeres de casos de usuarios, con características similares, evaluados para la adquisición de una casa a través de un crédito hipotecario con tasa fija a 30 años.
@@ -31,7 +31,7 @@ El análisis clústeres consiste en la segmentación y delimitación de grupos d
 
 ## Conclusión 
 
-La aplicación del algoritmo jerárquico ascendete y siguiendo los pasos necesarios para formar clúster,me permitio clasificar las variables, en este caso para analizar que grupo es más adecuado para solicitar un préstamo.
+La aplicación del algoritmo jerárquico ascendente y siguiendo los pasos necesarios para formar clúster,me permitió clasificar las variables, en este caso para analizar que grupo es más adecuado para solicitar un préstamo.
 
 Con el análisis se definieron los siguientes clúster, con lo que pude concluir que:
 
