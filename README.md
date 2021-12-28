@@ -1,4 +1,5 @@
 <h1 align="center"> Clúster Jerárquico </h1>
+<h2 align="center"> Aprendizaje No Supervisado<h2>
 
 # Introducción 
 
